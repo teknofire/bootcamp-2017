@@ -1,0 +1,8 @@
+GitHub's own 15 minute intro:
+https://try.github.io/levels/1/challenges/1
+
+A Git Concepts visualization in D3:  (interactive visualization show the commands visualized)
+https://onlywei.github.io/explain-git-with-d3/
+
+Demo dedicated to branching:
+http://learngitbranching.js.org/?demo
