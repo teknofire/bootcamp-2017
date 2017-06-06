@@ -12,3 +12,4 @@ GINA bootcamp session for learning git tools
 
 * Hello world - From Will@GINA
 * Hi, my name is Ianjon and I'm learning new things and it's awesome. 
+* Niki is adding stuff to this file to test forking and things. 
