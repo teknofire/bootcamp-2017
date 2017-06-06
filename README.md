@@ -5,3 +5,8 @@ GINA bootcamp session for learning git tools
 ## directories
 
 * mad-lib-stories - all the stories
+
+
+## Adding a message
+
+* Hello world - From Will@GINA
