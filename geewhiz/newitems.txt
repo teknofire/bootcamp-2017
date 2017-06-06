@@ -1,0 +1,1 @@
+Will said "What things have changed?" If you just say git dif it will show you everything that has changed. Here are pluses and green tags for things that have been added.
